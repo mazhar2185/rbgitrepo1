@@ -1,4 +1,4 @@
-ame: Test Pipeline2
+name: Test Pipeline2
 on: push
 
 
